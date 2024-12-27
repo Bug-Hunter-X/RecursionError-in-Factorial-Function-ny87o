@@ -1,0 +1,1 @@
+This repository demonstrates a common error in recursive functions: handling invalid input. The factorial function is only defined for non-negative integers. The bug.py file shows the function without proper input validation, leading to a RecursionError. The bugSolution.py file provides the solution by adding input validation.
